@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFMVVM", "WPFMVVM\WPFMVVM.csproj", "{AE58414A-28A3-416F-B917-6FA83559FF3E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVMCons", "MVVMCons\MVVMCons.csproj", "{8FB98F21-4E5A-43E3-9392-8405651E3AB0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{AE58414A-28A3-416F-B917-6FA83559FF3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE58414A-28A3-416F-B917-6FA83559FF3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE58414A-28A3-416F-B917-6FA83559FF3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FB98F21-4E5A-43E3-9392-8405651E3AB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FB98F21-4E5A-43E3-9392-8405651E3AB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FB98F21-4E5A-43E3-9392-8405651E3AB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FB98F21-4E5A-43E3-9392-8405651E3AB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
